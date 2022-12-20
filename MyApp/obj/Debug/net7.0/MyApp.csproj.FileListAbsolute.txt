@@ -1,0 +1,15 @@
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/MyApp/bin/Debug/net7.0/MyApp
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/MyApp/bin/Debug/net7.0/MyApp.dll
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/MyApp/obj/Debug/net7.0/MyApp.csproj.AssemblyReference.cache
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/MyApp/obj/Debug/net7.0/MyApp.dll
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/MyApp/obj/Debug/net7.0/ref/MyApp.dll

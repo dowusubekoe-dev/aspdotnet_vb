@@ -1,0 +1,15 @@
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/mosh-demo/obj/Debug/net7.0/mosh-demo.csproj.AssemblyReference.cache
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/mosh-demo/obj/Debug/net7.0/mosh-demo.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/mosh-demo/obj/Debug/net7.0/mosh-demo.AssemblyInfoInputs.cache
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/mosh-demo/obj/Debug/net7.0/mosh-demo.AssemblyInfo.cs
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/mosh-demo/obj/Debug/net7.0/mosh-demo.csproj.CoreCompileInputs.cache
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/mosh-demo/bin/Debug/net7.0/mosh-demo
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/mosh-demo/bin/Debug/net7.0/mosh-demo.deps.json
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/mosh-demo/bin/Debug/net7.0/mosh-demo.runtimeconfig.json
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/mosh-demo/bin/Debug/net7.0/mosh-demo.dll
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/mosh-demo/bin/Debug/net7.0/mosh-demo.pdb
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/mosh-demo/obj/Debug/net7.0/mosh-demo.dll
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/mosh-demo/obj/Debug/net7.0/refint/mosh-demo.dll
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/mosh-demo/obj/Debug/net7.0/mosh-demo.pdb
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/mosh-demo/obj/Debug/net7.0/mosh-demo.genruntimeconfig.cache
+/Volumes/extdSD/mit-tutorials-notes/project-env/aspdotnet_vb/mosh-demo/obj/Debug/net7.0/ref/mosh-demo.dll
